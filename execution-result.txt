@@ -1,0 +1,9 @@
+5(13(7(98,70),67(34,87)),6(9(68,88),32(20,45)))
+22(5(13,7(NULL,98)),70(67(NULL,34),87(6(NULL,9),68(88,32(NULL,20(NULL,45))))))
+Balanced tree:
+5(13(7(98,70),67(34,87)),6(9(68,88),32(20,45)))
+The check function says the tree is balanced.
+
+Non-Balanced tree:
+22(5(13,7(NULL,98)),70(67(NULL,34),87(6(NULL,9),68(88,32(NULL,20(NULL,45))))))
+The check function says the tree is NOT balanced.
